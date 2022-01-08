@@ -1,0 +1,77 @@
+{
+  "buildFiles": [
+    "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/platforms.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/compiler_id.cmake",
+    "/Users/honeyspoon/projects/native_add/android/third/sox/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Release-armeabi-v7a": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" native_add",
+      "abi": "armeabi-v7a",
+      "output": "/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/release/obj/armeabi-v7a/libnative_add.so",
+      "runtimeFiles": []
+    },
+    "vorbis-Release-armeabi-v7a": {
+      "artifactName": "vorbis",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" vorbis",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "flac-Release-armeabi-v7a": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" flac",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "opus-Release-armeabi-v7a": {
+      "artifactName": "opus",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" opus",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "opusfile-Release-armeabi-v7a": {
+      "artifactName": "opusfile",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" opusfile",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "sox-Release-armeabi-v7a": {
+      "artifactName": "sox",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" sox",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "amr-Release-armeabi-v7a": {
+      "artifactName": "amr",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" amr",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "ogg-Release-armeabi-v7a": {
+      "artifactName": "ogg",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" ogg",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "lame-Release-armeabi-v7a": {
+      "artifactName": "lame",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" lame",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "mad-Release-armeabi-v7a": {
+      "artifactName": "mad",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a\" mad",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    }
+  }
+}

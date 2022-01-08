@@ -1,0 +1,67 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/CMakeFiles/opus"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/CMakeFiles/opus.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/CMakeFiles/opus-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/opus-stamp/opus-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/CMakeFiles/ogg-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/arm64-v8a/third/sox/src/ogg-stamp/ogg-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opus"
+		],
+		"name" : "opus"
+	}
+}

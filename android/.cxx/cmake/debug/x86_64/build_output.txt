@@ -1,0 +1,13 @@
+CMake Warning at /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake:418 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake:54 (include)
+  .cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt
+
+
+sox libraries: /Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libsox.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrnb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrwb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmad.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmp3lame.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libFLAC.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopusfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopus.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisenc.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbis.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libogg.a
+Configuring done

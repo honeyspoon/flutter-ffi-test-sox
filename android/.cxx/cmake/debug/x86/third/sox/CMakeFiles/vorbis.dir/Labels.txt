@@ -1,0 +1,21 @@
+# Target labels
+ vorbis
+# Source files and their labels
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/CMakeFiles/vorbis
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/CMakeFiles/vorbis.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/CMakeFiles/vorbis-complete.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-install.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-mkdir.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-download.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-update.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-patch.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-configure.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-build.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/CMakeFiles/ogg-complete.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-install.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-download.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-update.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-patch.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-configure.rule
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-build.rule

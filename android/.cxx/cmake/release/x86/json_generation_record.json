@@ -1,0 +1,248 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/android_gradle_build.json due to:",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\u0027 but regenerating project",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/honeyspoon/projects/native_add/android\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/prefab/x86/prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693\n-DANDROID_PLATFORM\u003dandroid-19\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/release/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d19\n-B/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/honeyspoon/projects/native_add/android\",\n  \"buildDirectory\": \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/prefab/x86/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693\",\n    \"-DANDROID_PLATFORM\\u003dandroid-19\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/release/obj/x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d19\"\n  ]\n}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake:418 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake:54 (include)\\n  .cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake:418 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake:54 (include)\n  .cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  CMakeLists.txt\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":900,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"sox libraries: /Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libsox.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrnb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrwb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmad.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmp3lame.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libFLAC.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopusfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopus.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisenc.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbis.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libogg.a\",\"type\":\"message\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "sox libraries: /Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libsox.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrnb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopencore-amrwb.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmad.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libmp3lame.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libFLAC.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopusfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libopus.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisenc.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbisfile.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libvorbis.a/Users/honeyspoon/projects/native_add/android/third/sox/../install/lib/libogg.a",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":950,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":500,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject.cmake\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/RepositoryInfo.txt.in\",\"../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/ExternalProject-download.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake\",\"../../../Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake\",\"../../../Library/Android/sdk/ndk/24.0.7956693/build/cmake/platforms.cmake\",\"../../../Library/Android/sdk/ndk/24.0.7956693/build/cmake/compiler_id.cmake\",\"third/sox/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\".cxx/cmake/release/x86/third/sox/tmp/mad-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/amr-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/lame-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/ogg-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/flac-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/vorbis-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/opus-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/opusfile-cfgcmd.txt.in\",\".cxx/cmake/release/x86/third/sox/tmp/sox-cfgcmd.txt.in\"]}],\"cmakeRootDirectory\":\"/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android\",\"type\":\"reply\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\",\"name\":\"Project\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android\",\"targets\":[{\"artifacts\":[\"/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/release/obj/x86/libnative_add.so\"],\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -DNDEBUG  -fPIC  \",\"defines\":[\"native_add_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/honeyspoon/projects/native_add/android/third/sox/../install/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"../ios/Classes/native_add.cpp\"]}],\"fullName\":\"libnative_add.so\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"../../../../third/sox/../install/lib/libsox.a ../../../../third/sox/../install/lib/libopencore-amrnb.a ../../../../third/sox/../install/lib/libopencore-amrwb.a ../../../../third/sox/../install/lib/libmad.a ../../../../third/sox/../install/lib/libmp3lame.a ../../../../third/sox/../install/lib/libFLAC.a ../../../../third/sox/../install/lib/libopusfile.a ../../../../third/sox/../install/lib/libopus.a ../../../../third/sox/../install/lib/libvorbisenc.a ../../../../third/sox/../install/lib/libvorbisfile.a ../../../../third/sox/../install/lib/libvorbis.a ../../../../third/sox/../install/lib/libogg.a -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native_add\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android\",\"sysroot\":\"/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86\",\"name\":\"libsox\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android\",\"type\":\"INTERFACE_LIBRARY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/sox\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/sox.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/sox-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/sox-stamp/sox-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/flac-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/vorbis-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opusfile-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/lame-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/mad-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/amr-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opus-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-build.rule\"]}],\"fullName\":\"sox\",\"name\":\"sox\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opusfile\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opusfile.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opusfile-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opusfile-stamp/opusfile-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opus-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\"]}],\"fullName\":\"opusfile\",\"name\":\"opusfile\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opus\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opus.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/opus-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/opus-stamp/opus-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\"]}],\"fullName\":\"opus\",\"name\":\"opus\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\"]}],\"fullName\":\"ogg\",\"name\":\"ogg\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/vorbis\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/vorbis.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/vorbis-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/vorbis-stamp/vorbis-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\"]}],\"fullName\":\"vorbis\",\"name\":\"vorbis\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/mad\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/mad.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/mad-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/mad-stamp/mad-build.rule\"]}],\"fullName\":\"mad\",\"name\":\"mad\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/amr\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/amr.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/amr-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/amr-stamp/amr-build.rule\"]}],\"fullName\":\"amr\",\"name\":\"amr\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/lame\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/lame.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/lame-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/lame-stamp/lame-build.rule\"]}],\"fullName\":\"lame\",\"name\":\"lame\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"},{\"buildDirectory\":\"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/third/sox\",\"fileGroups\":[{\"isGenerated\":true,\"sources\":[\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/flac\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/flac.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/flac-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/flac-stamp/flac-build.rule\",\"../../.cxx/cmake/release/x86/third/sox/CMakeFiles/ogg-complete.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-install.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-mkdir.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-download.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-update.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-patch.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-configure.rule\",\"../../.cxx/cmake/release/x86/third/sox/src/ogg-stamp/ogg-build.rule\"]}],\"fullName\":\"flac\",\"name\":\"flac\",\"sourceDirectory\":\"/Users/honeyspoon/projects/native_add/android/third/sox\",\"type\":\"UTILITY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/build_output.txt",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86/build_command.txt",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "tag": "release|x86"
+  }
+]

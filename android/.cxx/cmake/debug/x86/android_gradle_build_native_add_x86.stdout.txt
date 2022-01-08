@@ -1,0 +1,114 @@
+ninja: Entering directory `/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86'
+[1/74] Creating directories for 'mad'
+[2/74] Creating directories for 'lame'
+[3/74] Creating directories for 'amr'
+[4/74] Creating directories for 'ogg'
+[5/74] Performing download step (download, verify and extract) for 'mad'
+-- mad download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/mad-stamp/mad-download-*.log
+[6/74] Performing download step (download, verify and extract) for 'ogg'
+-- ogg download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-download-*.log
+[7/74] No update step for 'mad'
+[8/74] Performing patch step for 'mad'
+patching file configure
+[9/74] No update step for 'ogg'
+[10/74] Performing download step (download, verify and extract) for 'lame'
+-- lame download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/lame-stamp/lame-download-*.log
+[11/74] No patch step for 'ogg'
+[12/74] Performing download step (download, verify and extract) for 'amr'
+-- amr download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/amr-stamp/amr-download-*.log
+[13/74] No update step for 'lame'
+[14/74] Performing patch step for 'lame'
+[15/74] No update step for 'amr'
+[16/74] No patch step for 'amr'
+[17/74] Performing configure step for 'ogg'
+-- ogg configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-configure-*.log
+[18/74] Performing configure step for 'amr'
+-- amr configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/amr-stamp/amr-configure-*.log
+[19/74] Performing build step for 'ogg'
+-- ogg build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-build-*.log
+[20/74] Performing install step for 'ogg'
+-- ogg install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/ogg-stamp/ogg-install-*.log
+[21/74] Completed 'ogg'
+[22/74] Creating directories for 'opus'
+[23/74] Creating directories for 'vorbis'
+[24/74] Creating directories for 'flac'
+[25/74] Performing download step (download, verify and extract) for 'opus'
+-- opus download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opus-stamp/opus-download-*.log
+[26/74] Performing download step (download, verify and extract) for 'vorbis'
+-- vorbis download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-download-*.log
+[27/74] No update step for 'opus'
+[28/74] No patch step for 'vorbis'
+[29/74] No patch step for 'opus'
+[30/74] No update step for 'vorbis'
+[31/74] Performing download step (download, verify and extract) for 'flac'
+-- flac download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/flac-stamp/flac-download-*.log
+[32/74] No update step for 'flac'
+[33/74] No patch step for 'flac'
+[34/74] Performing configure step for 'lame'
+-- lame configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/lame-stamp/lame-configure-*.log
+[35/74] Performing configure step for 'mad'
+-- mad configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/mad-stamp/mad-configure-*.log
+[36/74] Performing build step for 'lame'
+-- lame build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/lame-stamp/lame-build-*.log
+[37/74] Performing configure step for 'opus'
+-- opus configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opus-stamp/opus-configure-*.log
+[38/74] Performing install step for 'lame'
+-- lame install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/lame-stamp/lame-install-*.log
+[39/74] Completed 'lame'
+[40/74] Performing configure step for 'vorbis'
+-- vorbis configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-configure-*.log
+[41/74] Performing build step for 'mad'
+-- mad build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/mad-stamp/mad-build-*.log
+[42/74] Performing install step for 'mad'
+-- mad install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/mad-stamp/mad-install-*.log
+[43/74] Completed 'mad'
+[44/74] Performing configure step for 'flac'
+-- flac configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/flac-stamp/flac-configure-*.log
+[45/74] Performing build step for 'vorbis'
+-- vorbis build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-build-*.log
+[46/74] Performing install step for 'vorbis'
+-- vorbis install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/vorbis-stamp/vorbis-install-*.log
+[47/74] Completed 'vorbis'
+[48/74] Performing build step for 'flac'
+-- flac build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/flac-stamp/flac-build-*.log
+[49/74] Performing build step for 'opus'
+-- opus build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opus-stamp/opus-build-*.log
+[50/74] Performing install step for 'opus'
+-- opus install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opus-stamp/opus-install-*.log
+[51/74] Completed 'opus'
+[52/74] Creating directories for 'opusfile'
+[53/74] Performing download step (download, verify and extract) for 'opusfile'
+-- opusfile download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opusfile-stamp/opusfile-download-*.log
+[54/74] No update step for 'opusfile'
+[55/74] No patch step for 'opusfile'
+[56/74] Performing install step for 'flac'
+-- flac install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/flac-stamp/flac-install-*.log
+[57/74] Completed 'flac'
+[58/74] Performing configure step for 'opusfile'
+-- opusfile configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opusfile-stamp/opusfile-configure-*.log
+[59/74] Performing build step for 'opusfile'
+-- opusfile build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opusfile-stamp/opusfile-build-*.log
+[60/74] Performing install step for 'opusfile'
+-- opusfile install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/opusfile-stamp/opusfile-install-*.log
+[61/74] Completed 'opusfile'
+[62/74] Performing build step for 'amr'
+-- amr build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/amr-stamp/amr-build-*.log
+[63/74] Performing install step for 'amr'
+-- amr install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/amr-stamp/amr-install-*.log
+[64/74] Completed 'amr'
+[65/74] Creating directories for 'sox'
+[66/74] Performing download step (download, verify and extract) for 'sox'
+-- sox download command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/sox-stamp/sox-download-*.log
+[67/74] No update step for 'sox'
+[68/74] Performing patch step for 'sox'
+patching file src/formats.c
+Hunk #1 succeeded at 333 with fuzz 1.
+[69/74] Performing configure step for 'sox'
+-- sox configure command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/sox-stamp/sox-configure-*.log
+[70/74] Performing build step for 'sox'
+-- sox build command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/sox-stamp/sox-build-*.log
+[71/74] Performing install step for 'sox'
+-- sox install command succeeded.  See also /Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86/third/sox/src/sox-stamp/sox-install-*.log
+[72/74] Completed 'sox'
+[73/74] Building CXX object CMakeFiles/native_add.dir/Users/honeyspoon/projects/native_add/ios/Classes/native_add.cpp.o
+[74/74] Linking CXX shared library /Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so

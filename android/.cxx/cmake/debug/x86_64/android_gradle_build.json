@@ -1,0 +1,1107 @@
+{
+  "stringTable": {
+    "0": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_add_EXPORTS -I../../../../third/sox/../install/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC",
+    "2": "null"
+  },
+  "buildFiles": [
+    "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/platforms.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/compiler_id.cmake",
+    "/Users/honeyspoon/projects/native_add/android/third/sox/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ogg-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" ogg",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "ogg",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "mad-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" mad",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "mad",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/mad",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/mad.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/mad-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "opus-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" opus",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "opus",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opus",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opus.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opus-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "native_add-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" native_add",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/ios/Classes/native_add.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86_64/libnative_add.so",
+      "runtimeFiles": []
+    },
+    "vorbis-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" vorbis",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "vorbis",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/vorbis",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/vorbis.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/vorbis-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "amr-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" amr",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "amr",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/amr",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/amr.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/amr-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "lame-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" lame",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "lame",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/lame",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/lame.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/lame-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "opusfile-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" opusfile",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "opusfile",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opusfile",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opusfile.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opusfile-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opus-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "flac-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" flac",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "flac",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/flac",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/flac.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/flac-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "sox-Debug-x86_64": {
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64\" sox",
+      "buildType": "debug",
+      "toolchain": "3017264148",
+      "abi": "x86_64",
+      "artifactName": "sox",
+      "files": [
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/sox",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/sox.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/sox-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/sox-stamp/sox-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/ogg-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/flac-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/vorbis-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opusfile-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/lame-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/mad-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/amr-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/ogg-stamp/ogg-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/flac-stamp/flac-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/vorbis-stamp/vorbis-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opusfile-stamp/opusfile-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/lame-stamp/lame-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/mad-stamp/mad-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/amr-stamp/amr-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/CMakeFiles/opus-complete.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-install.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-mkdir.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-download.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-update.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-patch.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-configure.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86_64/third/sox/src/opus-stamp/opus-build.rule",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    }
+  },
+  "toolchains": {
+    "3017264148": {
+      "cppCompilerExecutable": "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

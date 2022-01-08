@@ -1,0 +1,235 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/sox"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/sox.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/sox-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/sox-stamp/sox-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/ogg-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/flac-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/vorbis-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/opusfile-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/lame-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/mad-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/amr-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/ogg-stamp/ogg-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/flac-stamp/flac-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/vorbis-stamp/vorbis-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opusfile-stamp/opusfile-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/lame-stamp/lame-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/mad-stamp/mad-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/amr-stamp/amr-build.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/CMakeFiles/opus-complete.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-install.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-mkdir.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-download.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-update.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-patch.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-configure.rule"
+		},
+		{
+			"file" : "/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64/third/sox/src/opus-stamp/opus-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sox"
+		],
+		"name" : "sox"
+	}
+}

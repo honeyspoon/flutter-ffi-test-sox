@@ -1,0 +1,77 @@
+{
+  "buildFiles": [
+    "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/platforms.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/compiler_id.cmake",
+    "/Users/honeyspoon/projects/native_add/android/third/sox/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "lame-Debug-x86": {
+      "artifactName": "lame",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" lame",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "opusfile-Debug-x86": {
+      "artifactName": "opusfile",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" opusfile",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "sox-Debug-x86": {
+      "artifactName": "sox",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" sox",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "mad-Debug-x86": {
+      "artifactName": "mad",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" mad",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "flac-Debug-x86": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" flac",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "native_add-Debug-x86": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" native_add",
+      "abi": "x86",
+      "output": "/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so",
+      "runtimeFiles": []
+    },
+    "ogg-Debug-x86": {
+      "artifactName": "ogg",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" ogg",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "opus-Debug-x86": {
+      "artifactName": "opus",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" opus",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "amr-Debug-x86": {
+      "artifactName": "amr",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" amr",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "vorbis-Debug-x86": {
+      "artifactName": "vorbis",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/debug/x86\" vorbis",
+      "abi": "x86",
+      "runtimeFiles": []
+    }
+  }
+}

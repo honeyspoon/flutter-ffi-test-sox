@@ -1,0 +1,77 @@
+{
+  "buildFiles": [
+    "/Users/honeyspoon/projects/native_add/android/CMakeLists.txt",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/platforms.cmake",
+    "/Users/honeyspoon/Library/Android/sdk/ndk/24.0.7956693/build/cmake/compiler_id.cmake",
+    "/Users/honeyspoon/projects/native_add/android/third/sox/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "vorbis-Release-x86_64": {
+      "artifactName": "vorbis",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" vorbis",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "sox-Release-x86_64": {
+      "artifactName": "sox",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" sox",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "flac-Release-x86_64": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" flac",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "opusfile-Release-x86_64": {
+      "artifactName": "opusfile",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" opusfile",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "ogg-Release-x86_64": {
+      "artifactName": "ogg",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" ogg",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "opus-Release-x86_64": {
+      "artifactName": "opus",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" opus",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "native_add-Release-x86_64": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" native_add",
+      "abi": "x86_64",
+      "output": "/Users/honeyspoon/projects/native_add/example/build/native_add/intermediates/cmake/release/obj/x86_64/libnative_add.so",
+      "runtimeFiles": []
+    },
+    "amr-Release-x86_64": {
+      "artifactName": "amr",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" amr",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "lame-Release-x86_64": {
+      "artifactName": "lame",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" lame",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "mad-Release-x86_64": {
+      "artifactName": "mad",
+      "buildCommand": "/Users/honeyspoon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/x86_64\" mad",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/CMakeFiles/native_add.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/edit_cache.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/sox.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/opusfile.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/rebuild_cache.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/opus.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/ogg.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/vorbis.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/mad.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/amr.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/lame.dir
+/Users/honeyspoon/projects/native_add/android/.cxx/cmake/release/armeabi-v7a/third/sox/CMakeFiles/flac.dir
